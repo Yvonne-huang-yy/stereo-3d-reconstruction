@@ -1,0 +1,3 @@
+# Historical dependency reference; not a tested installation lock.
+# Read docs/SETUP.md before installing.
+-r docs/requirements-original.txt

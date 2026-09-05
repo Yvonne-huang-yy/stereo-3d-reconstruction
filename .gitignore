@@ -1,0 +1,21 @@
+# Python / local development
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+# Generated captures and results
+data/temp/
+data/camera/
